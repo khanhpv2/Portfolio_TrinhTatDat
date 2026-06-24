@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <rect width="100%" height="100%" fill="#515e74"/>
+  <rect x="20" y="20" width="760" height="960" fill="none" stroke="#f59e0b" stroke-width="3" stroke-dasharray="12 6"/>
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" fill="#f8fafc" font-family="Arial,sans-serif" font-size="57.142857142857146" font-weight="bold">TEAM 4</text>
+  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" fill="#94a3b8" font-family="Arial,sans-serif" font-size="36.36363636363637">Replace: team-4.jpg</text>
+  <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" fill="#64748b" font-family="Arial,sans-serif" font-size="28.571428571428573">800×1000px</text>
+</svg>
