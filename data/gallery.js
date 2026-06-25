@@ -1,7 +1,7 @@
 export const galleryImages = [
   {
     id: 1,
-    src: "/images/gallery/construction-1.svg",
+    src: "/images/gallery/cons-1.jpg",
     alt: "Công trường thi công móng sâu - thay thế ảnh thật tại public/images/gallery/construction-1.svg",
     category: "construction",
     title: "Công trường thi công",
@@ -9,7 +9,7 @@ export const galleryImages = [
   },
   {
     id: 2,
-    src: "/images/gallery/construction-2.svg",
+    src: "/images/gallery/cons-2.jpeg",
     alt: "Thi công tường vây tại công trường cao tầng",
     category: "construction",
     title: "Thi công tường vây",
@@ -17,7 +17,7 @@ export const galleryImages = [
   },
   {
     id: 3,
-    src: "/images/gallery/construction-3.svg",
+    src: "/images/gallery/cons-3.jpg",
     alt: "Hố đào sâu cho tầng hầm tòa nhà",
     category: "construction",
     title: "Hố đào sâu",
@@ -25,7 +25,7 @@ export const galleryImages = [
   },
   {
     id: 4,
-    src: "/images/gallery/construction-4.svg",
+    src: "/images/gallery/cons-4.jpg",
     alt: "Giám sát thi công cọc đại trà",
     category: "construction",
     title: "Thi công cọc đại trà",
@@ -33,7 +33,7 @@ export const galleryImages = [
   },
   {
     id: 5,
-    src: "/images/gallery/equipment-1.svg",
+    src: "/images/gallery/equip-1.webp",
     alt: "Máy khoan cọc barrette tại công trường",
     category: "equipment",
     title: "Máy khoan Barrette",
@@ -41,7 +41,7 @@ export const galleryImages = [
   },
   {
     id: 6,
-    src: "/images/gallery/equipment-2.svg",
+    src: "/images/gallery/equip-2.jpg",
     alt: "Thiết bị thi công tường vây chuyên dụng",
     category: "equipment",
     title: "Thiết bị D-Wall",
@@ -49,7 +49,7 @@ export const galleryImages = [
   },
   {
     id: 7,
-    src: "/images/gallery/equipment-3.svg",
+    src: "/images/gallery/equip-3.png",
     alt: "Cần cẩu và thiết bị hạ tầng công trường",
     category: "equipment",
     title: "Thiết bị công trường",
@@ -57,7 +57,7 @@ export const galleryImages = [
   },
   {
     id: 8,
-    src: "/images/gallery/team-1.svg",
+    src: "/images/gallery/team-1.jpg",
     alt: "Đội ngũ kỹ sư và công nhân tại công trường",
     category: "team",
     title: "Đội ngũ công trường",
@@ -65,7 +65,7 @@ export const galleryImages = [
   },
   {
     id: 9,
-    src: "/images/gallery/team-2.svg",
+    src: "/images/gallery/team-2.jpg",
     alt: "Họp an toàn lao động tại công trường",
     category: "team",
     title: "Họp an toàn",
@@ -73,7 +73,7 @@ export const galleryImages = [
   },
   {
     id: 10,
-    src: "/images/gallery/team-3.svg",
+    src: "/images/gallery/team-3.jpg",
     alt: "Ban quản lý dự án tại hiện trường",
     category: "team",
     title: "Ban quản lý dự án",
@@ -81,7 +81,7 @@ export const galleryImages = [
   },
   {
     id: 11,
-    src: "/images/gallery/team-4.svg",
+    src: "/images/gallery/team-4.jpg",
     alt: "Đội ngũ kỹ thuật giám sát thi công",
     category: "team",
     title: "Đội ngũ kỹ thuật",

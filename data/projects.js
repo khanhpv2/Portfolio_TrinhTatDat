@@ -6,7 +6,7 @@ export const projects = [
     year: "2024 – Present",
     scope: "Thi công tường vây (Diaphragm Wall)",
     technologies: ["Diaphragm Wall", "Deep Excavation", "Urban Foundation"],
-    image: "/images/projects/project-1.svg",
+    image: "/images/projects/1.png",
     description:
       "Dự án khách sạn cao cấp tại trung tâm Quận 1, TP.HCM. Quản lý thi công tường vây cho hầm sâu trong môi trường đô thị đông đúc.",
     details: {
@@ -26,7 +26,7 @@ export const projects = [
     year: "2024",
     scope: "Cọc thử, cọc đại trà và tường vây — 30 tầng + 3 tầng hầm",
     technologies: ["Test Pile", "Mass Piling", "Diaphragm Wall"],
-    image: "/images/projects/project-2.svg",
+    image: "/images/projects/2.png",
     description:
       "Tòa tháp 30 tầng kèm 3 tầng hầm tại Đà Nẵng. Gói thầu foundation works toàn diện.",
     details: {
@@ -46,7 +46,7 @@ export const projects = [
     year: "2024",
     scope: "Khu phức hợp TM-KS-Căn hộ — 47 tầng + 2 hầm",
     technologies: ["Test Pile", "Mass Pile", "D-Wall", "Kingpost"],
-    image: "/images/projects/project-3.svg",
+    image: "/images/projects/3.png",
     description:
       "Dự án landmark cao 47 tầng với gói foundation phức tạp gồm cọc, tường vây và kingpost.",
     details: {
@@ -66,7 +66,7 @@ export const projects = [
     year: "2024",
     scope: "Tường vây — 2 hầm + tháp 30 & 38 tầng",
     technologies: ["Diaphragm Wall", "Deep Basement"],
-    image: "/images/projects/project-4.svg",
+    image: "/images/projects/4.jpg",
     description:
       "Khu phức hợp trung tâm thương mại và căn hộ điểm nhấn Đà Nẵng.",
     details: {
@@ -83,7 +83,7 @@ export const projects = [
     year: "2013 – 2017",
     scope: "6 tháp, 3 hầm, chung cư 50 tầng",
     technologies: ["Test Pile", "D-Wall", "Mass Piling", "Kingpost"],
-    image: "/images/projects/project-5.svg",
+    image: "/images/projects/5.jpg",
     description:
       "Siêu dự án ven sông Sài Gòn với 6 tháp cao 50 tầng. Kinh nghiệm site engineer quy mô lớn.",
     details: {
@@ -103,7 +103,7 @@ export const projects = [
     year: "2013 – 2017",
     scope: "48 tầng + 5 tầng hầm — Cọc đại trà & King Post",
     technologies: ["Mass Piling", "Kingpost", "Deep Excavation"],
-    image: "/images/projects/project-6.svg",
+    image: "/images/projects/6.jpg",
     description:
       "Dự án trung tâm thương mại cao cấp tại trung tâm TP.HCM với 5 tầng hầm.",
     details: {
@@ -120,7 +120,7 @@ export const projects = [
     year: "2018",
     scope: "Tường vây ga metro sâu",
     technologies: ["Diaphragm Wall", "Metro Infrastructure"],
-    image: "/images/projects/project-7.svg",
+    image: "/images/projects/7.jpg",
     description:
       "Ga metro Bến Thành thuộc tuyến đường sắt đô thị số 1 Bến Thành – Suối Tiên.",
     details: {
@@ -137,7 +137,7 @@ export const projects = [
     year: "2013 – 2017",
     scope: "Tường vây, cọc đại trà, cột chống tạm",
     technologies: ["D-Wall", "Mass Piling", "Kingpost"],
-    image: "/images/projects/project-8.svg",
+    image: "/images/projects/8.jpg",
     description:
       "Ga metro tại khu vực Nhà hát Thành phố — gói foundation works toàn diện.",
     details: {
@@ -154,7 +154,7 @@ export const projects = [
     year: "2008 – 2010",
     scope: "Tường vây và cọc barrette",
     technologies: ["Diaphragm Wall", "Barrette Piling"],
-    image: "/images/projects/project-9.svg",
+    image: "/images/projects/9.jpg",
     description:
       "Khách sạn 5 sao Le Meridien — dự án foundation works tại trung tâm Sài Gòn.",
     details: {
@@ -171,7 +171,7 @@ export const projects = [
     year: "2008 – 2010",
     scope: "Tường vây và cọc barrette",
     technologies: ["Diaphragm Wall", "Barrette Piling"],
-    image: "/images/projects/project-10.svg",
+    image: "/images/projects/10.jpg",
     description: "Tháp văn phòng M&C tại trung tâm Quận 1.",
     details: {
       client: "M&C Development",
@@ -187,7 +187,7 @@ export const projects = [
     year: "2018 – 2021",
     scope: "Kết cấu phần hầm và chống thấm",
     technologies: ["Substructure", "Waterproofing"],
-    image: "/images/projects/project-11.svg",
+    image: "/images/projects/11.jpg",
     description:
       "Mở rộng tòa Lounge thuộc khu Ancient Hue Garden House.",
     details: {
@@ -204,7 +204,7 @@ export const projects = [
     year: "2013 – 2017",
     scope: "Cọc thử và thí nghiệm cọc",
     technologies: ["Test Pile", "Pile Testing"],
-    image: "/images/projects/project-12.svg",
+    image: "/images/projects/12.jpg",
     description: "Gói thầu cọc thử và thí nghiệm cọc cho dự án E-Town 3.2.",
     details: {
       client: "E-Town Development",

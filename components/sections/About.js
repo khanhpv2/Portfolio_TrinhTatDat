@@ -7,15 +7,15 @@ import { profile } from "@/data/profile";
 
 const aboutPhotos = [
   {
-    src: "/images/profile/about-1.svg",
+    src: "/images/profile/me-1.jpg",
     alt: "Trịnh Tất Đạt tại công trường xây dựng - thay thế ảnh tại public/images/profile/about-1.svg",
   },
   {
-    src: "/images/profile/about-2.svg",
+    src: "/images/profile/me-2.jpg",
     alt: "Giám sát thi công móng sâu cao tầng - thay thế ảnh about-2.svg",
   },
   {
-    src: "/images/profile/about-3.svg",
+    src: "/images/profile/me-3.jpg",
     alt: "Đội ngũ quản lý dự án xây dựng - thay thế ảnh about-3.svg",
   },
 ];

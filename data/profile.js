@@ -6,8 +6,8 @@ export const profile = {
   yearsOfExperience: 17,
   dateOfBirth: "16/04/1985",
   nationality: "Việt Nam",
-  email: "trinhtatdat@email.com", // Replace with real email
-  phone: "+84 xxx xxx xxx", // Replace with real phone
+  email: "tat.dat.trinh@soletanche-bachy.com", // Replace with real email
+  phone: "+84 912 228 402", // Replace with real phone
   location: "Đà Nẵng & TP. Hồ Chí Minh, Việt Nam",
   cvPath: "/cv/trinh-tat-dat-cv.pdf", // Replace: upload CV to public/cv/
   summary:
@@ -34,8 +34,8 @@ export const profile = {
   ],
   social: {
     linkedin: "https://linkedin.com/in/trinhtatdat", // Replace
-    email: "mailto:trinhtatdat@email.com",
-    phone: "tel:+84xxxxxxxxx",
+    email: "tat.dat.trinh@soletanche-bachy.com",
+    phone: "tel:+84 912 228 402",
   },
 };
 

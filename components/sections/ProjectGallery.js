@@ -20,7 +20,7 @@ export default function ProjectGallery() {
         <SectionHeading
           label="Thư viện ảnh"
           title="Hình ảnh công trường"
-          subtitle="Công trường, thiết bị thi công và đội ngũ — thay thế bằng ảnh thật trong public/images/gallery/"
+          subtitle="Công trường, thiết bị thi công và đội ngũ"
         />
 
         <div className="mb-8 flex flex-wrap justify-center gap-2">

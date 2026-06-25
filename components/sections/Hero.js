@@ -50,7 +50,7 @@ export default function Hero() {
           </div>
 
           <p className="mt-6 max-w-lg text-slate-400 leading-relaxed">
-            {profile.summaryEn}
+            {profile.summary}
           </p>
 
           <div className="mt-8 flex flex-wrap gap-4">
