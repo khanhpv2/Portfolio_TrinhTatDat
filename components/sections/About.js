@@ -3,6 +3,7 @@
 import { motion } from "framer-motion";
 import Image from "next/image";
 import SectionHeading from "@/components/ui/SectionHeading";
+
 import { profile } from "@/data/profile";
 
 const aboutPhotos = [
